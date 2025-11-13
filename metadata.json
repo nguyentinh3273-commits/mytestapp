@@ -1,0 +1,5 @@
+{
+  "name": "Gemini PDF Converter",
+  "description": "Upload a PDF file, choose a target format (TXT, Word, Excel), and let Gemini convert the document for you.",
+  "requestFramePermissions": []
+}
